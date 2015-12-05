@@ -41,6 +41,9 @@ sudo add-apt-repository ppa:linrunner/tlp -y
 sudo add-apt-repository ppa:noobslab/themes -y
 #sublime text 2
 sudo add-apt-repository ppa:webupd8team/sublime-text-2 -y
+#Varicious Colors
+sudo add-apt-repository ppa:ravefinity-project/ppa
+
 
 #################################################################
 
@@ -50,7 +53,7 @@ sudo apt-get upgrade
 # REMOVE some unneeded apps #
 sudo apt-get remove gnome-games gnome-games-common empathy
 # INSTALL new apps #
-sudo apt-get -y install variety vlc unity-tweak-tool numix-icon-theme numix-icon-theme-circle clamav-daemon clamtk gksu bleachbit tlp tlp-rdw mbuntu-y-ithemes-v4 mbuntu-y-icons-v4 fcitx fcitx-pinyin fcitx-sunpinyin fcitx-googlepinyin sublime-text
+sudo apt-get -y install variety vlc unity-tweak-tool numix-icon-theme numix-icon-theme-circle clamav-daemon clamtk gksu bleachbit tlp tlp-rdw mbuntu-y-ithemes-v4 mbuntu-y-icons-v4 fcitx fcitx-pinyin fcitx-sunpinyin fcitx-googlepinyin sublime-text vivacious-colors vivacious-folder-colors-addon ambiance-colors radiance-colors git
 
 ###################################################################
 
